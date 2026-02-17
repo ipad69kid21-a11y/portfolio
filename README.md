@@ -1,109 +1,118 @@
-# 🎮 Dr Goldy  
-### `Game Developer` • `Web Developer` • `Digital World Builder`
+<div align="center">
+
+# ⚡ DR GOLDY ⚡
+### 🎮 Game Systems Architect • 🌐 Web Engineer • 🧠 Digital World Builder
 
 ```txt
-> Building worlds.
-> Writing systems.
-> Turning ideas into playable experiences.
+[ INITIALIZING DEVELOPER PROFILE... ]
+> Systems Online
+> Creativity Loaded
+> Ready To Build
 ```
 
----
-
-## 🧠 Who Am I?
-
-Hey 👋 I'm **Dr Goldy** — a developer who creates immersive games and clean web experiences.
-
-I work across:
-
-🎮 Roblox  
-🟩 Minecraft  
-🦀 Rust-inspired survival systems  
-🌐 Modern Web Applications  
-
-I don’t just code — I design mechanics, systems, and experiences.
+</div>
 
 ---
 
-## 🎮 Game Dev Focus
-
-### 🟥 Roblox Development
-- Advanced Lua scripting  
-- Custom game systems  
-- UI frameworks  
-- Multiplayer logic  
-- Optimization & performance tuning  
-
-### 🟩 Minecraft Development
-- Custom plugins  
-- Server-side features  
-- Automation systems  
-- Gameplay enhancements  
-
-### 🦀 Survival / Rust-Style Systems
-- Base building mechanics  
-- Inventory systems  
-- PvP frameworks  
-- Resource management logic  
-
----
-
-## 🌐 Web Development
-
-- Responsive websites  
-- Interactive front-end apps  
-- Clean UI/UX layouts  
-- JavaScript-powered features  
-
-I enjoy mixing creativity with functionality — smooth design + solid logic.
-
----
-
-## ⚙️ Tech Stack
+## 🧬 // DEVELOPER PROFILE
 
 ```js
-const drGoldy = {
-  languages: ["JavaScript", "Lua"],
-  gameDev: ["Roblox Studio", "Minecraft Development"],
-  web: ["HTML", "CSS", "JavaScript"],
-  tools: ["Git", "GitHub"],
-  focus: "Building interactive systems & gameplay mechanics"
-};
+class DrGoldy {
+  constructor() {
+    this.role = ["Game Developer", "Web Developer"];
+    this.specialties = ["Roblox Systems", "Minecraft Development", "Survival Mechanics"];
+    this.languages = ["JavaScript", "Lua"];
+    this.mindset = "Build. Optimize. Scale.";
+  }
+
+  buildExperience() {
+    return "Immersive, Interactive, Engineered.";
+  }
+}
 ```
 
----
-
-## 🏗️ Current Goals
-
-- 🚀 Launch larger multiplayer game projects  
-- 🧩 Create advanced reusable game systems  
-- 🌍 Develop full-stack web applications  
-- 🔥 Build a strong dev portfolio  
+I create structured systems, immersive mechanics, and scalable projects.  
+Not just games. Not just websites.  
+**Experiences.**
 
 ---
 
-## 📌 Featured Work
+## 🎮 // GAME DEVELOPMENT
 
-*(Update these with real repo links)*
+### 🟥 ROBLOX ENGINEERING
+- Advanced Lua scripting
+- Custom frameworks
+- Multiplayer systems
+- Performance optimization
+- UI architecture
 
-- 🎮 Roblox System Framework  
-- 🟩 Minecraft Custom Plugin  
-- 🌐 Interactive Web App Project  
+### 🟩 MINECRAFT DEVELOPMENT
+- Custom plugins
+- Server-side mechanics
+- Automation systems
+- Gameplay extensions
+
+### 🦀 SURVIVAL SYSTEM DESIGN
+- Inventory frameworks
+- Base-building logic
+- PvP systems
+- Resource economy balancing
 
 ---
 
-## 💡 Developer Mindset
+## 🌐 // WEB DEVELOPMENT
+
+- Responsive layouts
+- Interactive front-end systems
+- Clean UI architecture
+- JavaScript-driven applications
+- Structured, maintainable code
+
+---
+
+## 🛠️ // TECH STACK
 
 ```txt
-Design > System > Build > Test > Improve > Scale
+Languages   → JavaScript • Lua
+Game Dev    → Roblox Studio • Minecraft Tools
+Web         → HTML • CSS • JS
+Tools       → Git • GitHub
+Focus       → Scalable Systems & Clean Architecture
 ```
-
-I believe good development is about structure, creativity, and constant improvement.
 
 ---
 
-## 🤝 Let’s Build Something
+## 🚀 // CURRENT MISSION
 
-If you're into game dev, scripting, or web projects —  
-let’s connect and create something awesome 🚀  
+- Build large-scale multiplayer experiences  
+- Develop reusable game frameworks  
+- Launch advanced web applications  
+- Expand my development ecosystem  
 
-⭐ Star a repo if you like what you see!
+---
+
+## 📂 // PROJECT ZONE
+
+> (Replace with real links)
+
+🎮 Roblox Core System Framework  
+🟩 Minecraft Custom Plugin Engine  
+🌐 Interactive Web Application  
+
+---
+
+<div align="center">
+
+## ⚙️ STATUS
+
+```txt
+Coding...
+Designing...
+Improving...
+Scaling...
+```
+
+⭐ Star a project if you like the work.
+🚀 Always building. Always leveling up.
+
+</div>
