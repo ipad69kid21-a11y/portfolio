@@ -1,108 +1,44 @@
 <div align="center">
 
-<h1>
-  <span style="color:#ff4d4d;">⚔️ DR</span> 
-  <span style="color:#ffaa00;">GOLDY</span>
-</h1>
+<h2>
+  <span style="color:#ffcc00;">DR.</span> 
+  <span style="color:#00ffcc;">GOLDY</span>
+</h2>
 
-<h3 style="color:#00e6e6;">
-  🎮 Game Dev • 🌐 Web Dev • 🧠 System Architect
+<h3 style="color:#00ffcc;">
+  ✦ discord dev ✦ web dev ✦ game dev ✦
 </h3>
 
 <p>
-  <span style="color:#aaaaaa;">Building worlds.</span><br>
-  <span style="color:#aaaaaa;">Engineering systems.</span><br>
-  <span style="color:#aaaaaa;">Turning ideas into playable reality.</span>
+  <code style="color:#888888;">[ STATUS: INNOVATING... ]</code><br>
 </p>
 
+---
+
 </div>
 
----
+<div align="center"><h3><span style="color: #ffcc00;">GOLDY</span> </h3>
 
-## <span style="color:#ff4d4d;">🔥 DEVELOPER CORE</span>
+ <div align="center"> <h3>what i work on</h3>
 
-```js
-const DrGoldy = {
-  title: "Digital Builder",
-  roles: ["Game Developer", "Web Developer"],
-  focus: "Scalable Systems & Interactive Design",
-  mindset: "Build > Optimize > Scale",
-  status: "Always Leveling Up"
-};
-```
+___________
+   
+ <div align="center"> <span style="color:#ffcc00;">-</span> Roblox -- ( Luau Frameworks & Custom Physics ) <div align="center">
 
-I create structured game systems, immersive mechanics,  
-and clean, modern web applications.
-
-Not just projects —  
-<span style="color:#ffaa00;">Experiences.</span>
-
----
-
-## <span style="color:#00e6e6;">🎮 GAME DEVELOPMENT</span>
-
-### 🟥 Roblox Engineering
-- Advanced Lua scripting  
-- Custom gameplay frameworks  
-- Multiplayer architecture  
-- Performance optimization  
-- UI system design  
-
-### 🟩 Minecraft Development
-- Custom plugins  
-- Server-side systems  
-- Automation logic  
-- Gameplay enhancements  
-
-### 🦀 Survival-Style Systems
-- Inventory frameworks  
-- Base-building mechanics  
-- PvP logic  
-- Resource economy balancing  
-
----
-
-## <span style="color:#ffaa00;">🌐 WEB DEVELOPMENT</span>
-
-- Responsive layouts  
-- Interactive front-end apps  
-- Clean UI/UX design  
-- JavaScript-powered features  
-- Structured & maintainable code  
-
----
-
-## <span style="color:#ff4d4d;">⚙️ TECH STACK</span>
-
-```js
-[
-  "JavaScript",
-  "Lua",
-  "HTML",
-  "CSS",
-  "Roblox Studio",
-  "Minecraft Development",
-  "Git",
-  "GitHub"
-]
-```
-
----
-
-## <span style="color:#00e6e6;">🚀 CURRENT MISSION</span>
-
-- ⚡ Build advanced multiplayer systems  
-- 🧩 Create reusable game frameworks  
-- 🌍 Develop full-stack web apps  
-- 🏆 Expand my developer portfolio  
-
----
-
-<div align="center">
-
-### <span style="color:#ffaa00;">⚡ STATUS: CODING... ⚡</span>
-
-⭐ Star a repo if you like the work  
-🚀 Always building. Always improving. Always evolving.
-
+--
 </div>
+
+ <div align="center"> <span style="color:#ffcc00;">-</span> Minecraft -- ( Spigot/Paper API & Server Logic ) <div align="center">
+
+--
+</div>
+
+ <div align="center"> <span style="color:#ffcc00;">-</span> Discord Bots -- ( Automation & API Hooks ) <div align="center">
+
+--
+</div>
+  
+ <div align="center"> <span style="color:#ffcc00;">-</span>Websites -- ( Modern JS & Interactive UI/UX ) <div align="center">
+
+ ---
+ </div>
